@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Thankgod%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20Web,%20One%20Line%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Thankgod&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Scalable%20Web%20Solutions&descAlignY=58&descSize=17&animation=fadeIn&fontAlign=50"/>
 
 </div>
 
@@ -9,23 +9,23 @@
 
 <div align="center">
 
-### 🚀 Who Am I?
+### About
 
 </div>
 
-I'm **Thankgod** — a passionate **Full-Stack Developer** who loves turning ideas into real, functional, and beautiful web experiences. From clean frontends to solid backends, I build things that work *and* look great.
+I'm **Thankgod**, a **Full-Stack Developer** focused on building scalable, well-structured web applications. I care deeply about clean code, intuitive user experiences, and delivering work that makes an impact.
 
-> 💡 *"The best code is the one that ships."*
+> *"Good software is built with intention, not just capability."*
 
 ---
 
-### 🧠 About Me
+### Profile
 
-- 🌍 Based in **Nigeria**
-- 💻 Currently building projects with **HTML, CSS, JavaScript & React**
-- 📈 Constantly leveling up my Full-Stack skills
-- 🤝 **Open to jobs, internships & exciting opportunities**
-- ⚡ Fun fact: I believe every bug is just a feature in disguise
+- Based in **Nigeria**
+- Working with **HTML, CSS, JavaScript & React**
+- Expanding expertise across the full stack
+- **Available for jobs, internships & professional opportunities**
+- Committed to writing code that is readable, maintainable, and purposeful
 
 ---
 
@@ -45,18 +45,18 @@ I'm **Thankgod** — a passionate **Full-Stack Developer** who loves turning ide
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=thankgodbyte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankgodbyte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thankgodbyte&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thankgodbyte&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thankgodbyte&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=thankgodbyte&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)
 
 </div>
 
